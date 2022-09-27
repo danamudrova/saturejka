@@ -9,3 +9,17 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+#pink {
+    background-color: lavenderblush;
+    Margin-left: auto; 
+    Margin-right: auto;
+    
+}
+
+#white {
+    background-color: #ffffff;
+    width: 800px;
+    Margin-left: auto; 
+    Margin-right: auto;
+}
